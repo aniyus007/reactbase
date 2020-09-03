@@ -62,7 +62,7 @@
   "dependencies": {
     "@types/react": "^16.8.19",
     "@types/react-dom": "^16.8.4",
-    "lazysizes": "^4.1.8",
+    "lazysizes": "^5.2.1",
     "office-ui-fabric-react": "^6.187.2",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
